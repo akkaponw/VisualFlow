@@ -23,6 +23,7 @@ setup(
         'numpy',
         'opencv-python',
         'pascal-voc-writer',
+        'polygon_pascalvoc_writer',
         'tqdm',
         'Pillow',
         'ultralytics',
